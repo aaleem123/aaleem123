@@ -16,6 +16,3 @@ I’ve always been drawn to the beauty of small, intricate systems: puzzles, pat
 📚 Lifelong learner! I upskilled through the TechWorld with Nana DevOps Bootcamp last year, and constantly experiment with new tools, patterns, and best practices in the DevOps space.
 
 ⚡💡My goal is to keep on working in spaces accelerating in Platform engineering, Devops, Cloud and moving forward to Ai integrations in this particular space. 
-
-My Links:
-Medium: https://medium.com/@attiaaleem
