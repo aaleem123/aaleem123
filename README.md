@@ -1,6 +1,6 @@
-# Hi there, I'm Attia Aleem 👋
+# Hi there, Attia here 👋
 
-## 🚀 DevOps & Cloud Engineer | Platform Engineering Enthusiast | AWS Specialist  
+## 🚀 DevOps & Cloud Engineer/ Platform Engineering Enthusiast/ AWS Specialist  
 
 I know you’re here to learn about my work, but first, a little about me:  
 
@@ -19,10 +19,8 @@ My focus is on **AWS** but I’m passionate about **cloud-agnostic architectures
 - **Infrastructure as Code:** Terraform, Ansible  
 - **Automation & CI/CD:** Jenkins, GitHub Actions, Argo CD  
 - **Monitoring:** Prometheus, Grafana  
-- **Cloud Platforms:** AWS, GCP, DigitalOcean, Linode  
-
-I’ve supported startups and growing teams in designing **resilient, secure, and production-grade systems** from the ground up.
-
+- **Cloud Platforms:** AWS, GCP, DigitalOcean, Linode
+  
 ---
 
 ## 🛠 Skills  
