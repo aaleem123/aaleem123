@@ -17,8 +17,6 @@ My focus is on **AWS** but I’m passionate about **cloud-agnostic architectures
 - **Monitoring:** Prometheus, Grafana  
 - **Cloud Platforms:** AWS, GCP, DigitalOcean, Linode
   
----
-
 ## 🛠 Skills  
 
 **Cloud & Infrastructure:** AWS (ECS, S3, VPC, CloudFront, IAM, EC2), GCP, DigitalOcean, Linode  
@@ -28,8 +26,6 @@ My focus is on **AWS** but I’m passionate about **cloud-agnostic architectures
 **Monitoring & Observability:** Prometheus, Grafana  
 **Programming/Scripting:** Python, Golang  
 **Artifact Registries:** Amazon ECR, Docker Hub, Nexus Repository  
-
----
 
 ## 📌 Featured Projects  
 
@@ -42,14 +38,11 @@ My focus is on **AWS** but I’m passionate about **cloud-agnostic architectures
 - **CI/CD Pipeline Automation**  
   Built end-to-end CI/CD pipelines using Jenkins and GitHub Actions for Java, Node.js, and Python applications — containerized with Docker and deployed to Kubernetes.  
 
----
-
 ## 📚 Learning & Growth  
 
 - Completed **TechWorld with Nana DevOps Bootcamp** — mastering containerization, Kubernetes, GitOps, CI/CD automation, and monitoring.  
 - Actively experimenting with **Platform Engineering** concepts and **AI integrations** in DevOps workflows.  
 
----
 
 ## 📫 Connect with Me  
 
