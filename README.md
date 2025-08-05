@@ -1,5 +1,5 @@
 Hi there, Attia here 👋
-## 🚀 DevOps & Cloud Engineer/ Platform Engineering Enthusiast/ AWS Specialist  
+## 🚀 DevOps & Cloud Engineer/ Platform Engineering Enthusiast/ AWS Specialist  ##
 I know you’re here to learn about my work, but first, a little about me:  
 🐱 **Animal lover** — Cats and puffins are my absolute favorites. One day, I plan to visit the puffin islands in Scotland 🐧.  
 🌿 **Nature enthusiast & proud introvert** — Yes, a bit ironic for someone in tech!  
@@ -8,15 +8,7 @@ I know you’re here to learn about my work, but first, a little about me:
 
 ## 💼 Professional Summary  
 
-I’m a **DevOps & Cloud Engineer** with **2+ years of hands-on experience** building and automating scalable cloud-native infrastructure.  
-My focus is on **AWS** but I’m passionate about **cloud-agnostic architectures** using:  
-- **Containerization:** Docker  
-- **Orchestration:** Kubernetes, Amazon EKS, GKE, ECS, Karpenter  
-- **Infrastructure as Code:** Terraform, Ansible  
-- **Automation & CI/CD:** Jenkins, GitHub Actions, Argo CD  
-- **Monitoring:** Prometheus, Grafana  
-- **Cloud Platforms:** AWS, GCP, DigitalOcean, Linode
-
+I am a DevOps & Cloud Engineer with over two years of experience designing, building, and automating scalable cloud-native infrastructure. While my expertise is strongly rooted in AWS, I am equally passionate about creating cloud-agnostic architectures that leverage containerization with Docker, orchestration through Kubernetes (including EKS, GKE, ECS, and Karpenter), and automation using Terraform and Ansible. I have a proven track record of streamlining software delivery through robust CI/CD pipelines with Jenkins, GitHub Actions, and GitOps practices via Argo CD. My work emphasizes monitoring and observability using Prometheus and Grafana, enabling high reliability, scalability, and performance across diverse platforms including AWS, GCP, DigitalOcean, and Linode.
   
 ## 🛠 Skills  
 
