@@ -1,14 +1,10 @@
-# Hi there, Attia here 👋
-
-## 🚀 DevOps & Cloud Engineer/ Platform Engineering Enthusiast/ AWS Specialist  
-
+Hi there, Attia here 👋
+🚀 DevOps & Cloud Engineer/ Platform Engineering Enthusiast/ AWS Specialist  
 I know you’re here to learn about my work, but first, a little about me:  
 
 🐱 **Animal lover** — Cats and puffins are my absolute favorites. One day, I plan to visit the puffin islands in Scotland 🐧.  
 🌿 **Nature enthusiast & proud introvert** — Yes, a bit ironic for someone in tech!  
 🧩 **Puzzle & patterns fan** — I’ve always been fascinated by intricate systems and how everything connects.  
-
----
 
 ## 💼 Professional Summary  
 
