@@ -1,18 +1,69 @@
-## Hi there 👋
+# Hi there, I'm Attia Aleem 👋
 
-I know you’re here to read my professional bio but first, a few fun facts about me to break the ice!
+## 🚀 DevOps & Cloud Engineer | Platform Engineering Enthusiast | AWS Specialist  
 
-🐱 I’m an animal lover through and through, cats and puffins are my absolute favorites. One of my dreams is to visit the puffin islands in Scotland someday 🐧. I’m also a nature enthusiast and a proud introvert yes, a bit ironic, but here we are!
+I know you’re here to learn about my work, but first, a little about me:  
 
-🌱 Why did I choose tech as a career?
-I’ve always been drawn to the beauty of small, intricate systems: puzzles, patterns, and how things connect. That fascination naturally evolved into a love for technical architecture, the way systems align, communicate, and build into something greater than the sum of their parts. I inspire to work on platforms and extremely passionate to learn everything and anything in this domain. Now let's talk professionally: 
+🐱 **Animal lover** — Cats and puffins are my absolute favorites. One day, I plan to visit the puffin islands in Scotland 🐧.  
+🌿 **Nature enthusiast & proud introvert** — Yes, a bit ironic for someone in tech!  
+🧩 **Puzzle & patterns fan** — I’ve always been fascinated by intricate systems and how everything connects.  
 
-🚀 DevOps & Cloud Engineer here with a hands-on experience designing scalable, secure, and automated cloud-native infrastructure. I specialize in AWS, and am actively focused further on building cloud-agnostic architectures using tools like Kubernetes, Terraform, Ansible, and Docker.
+---
 
-💡 Passionate about streamlining software delivery through CI/CD pipelines, enabling GitOps workflows, and empowering teams to ship faster with confidence. I’ve worked across multiple cloud platforms including AWS, GCP, and DigitalOcean, helping startups and teams build resilient systems from the ground up.
+## 💼 Professional Summary  
 
-🔁 Strong believer in automation, reliability, and continuous improvement. Currently immersed in managing Kubernetes-based platforms, optimizing workloads with tools like Karpenter and ArgoCD, and driving infrastructure as code practices across the stack.
+I’m a **DevOps & Cloud Engineer** with **2+ years of hands-on experience** building and automating scalable cloud-native infrastructure.  
+My focus is on **AWS** but I’m passionate about **cloud-agnostic architectures** using:  
+- **Containerization:** Docker  
+- **Orchestration:** Kubernetes, Amazon EKS, GKE, ECS, Karpenter  
+- **Infrastructure as Code:** Terraform, Ansible  
+- **Automation & CI/CD:** Jenkins, GitHub Actions, Argo CD  
+- **Monitoring:** Prometheus, Grafana  
+- **Cloud Platforms:** AWS, GCP, DigitalOcean, Linode  
 
-📚 Lifelong learner! I upskilled through the TechWorld with Nana DevOps Bootcamp last year, and constantly experiment with new tools, patterns, and best practices in the DevOps space.
+I’ve supported startups and growing teams in designing **resilient, secure, and production-grade systems** from the ground up.
 
-⚡💡My goal is to keep on working in spaces accelerating in Platform engineering, Devops, Cloud and moving forward to Ai integrations in this particular space. 
+---
+
+## 🛠 Skills  
+
+**Cloud & Infrastructure:** AWS (ECS, S3, VPC, CloudFront, IAM, EC2), GCP, DigitalOcean, Linode  
+**Containerization & Orchestration:** Docker, Kubernetes, EKS, GKE, ECS, Karpenter  
+**CI/CD & GitOps:** Jenkins, GitHub Actions, Argo CD  
+**IaC & Automation:** Terraform, Ansible  
+**Monitoring & Observability:** Prometheus, Grafana  
+**Programming/Scripting:** Python, Golang  
+**Artifact Registries:** Amazon ECR, Docker Hub, Nexus Repository  
+
+---
+
+## 📌 Featured Projects  
+
+- **AWS 3-Tier Architecture with Terraform**  
+  Designed and deployed a highly available, secure 3-tier AWS infrastructure using Terraform, including VPC, EC2, RDS, ALB, and CloudFront.  
+
+- **Kubernetes GitOps with Argo CD**  
+  Automated application deployments to Amazon EKS using Argo CD and GitOps best practices, integrated with Karpenter for cost-optimized scaling.  
+
+- **CI/CD Pipeline Automation**  
+  Built end-to-end CI/CD pipelines using Jenkins and GitHub Actions for Java, Node.js, and Python applications — containerized with Docker and deployed to Kubernetes.  
+
+---
+
+## 📚 Learning & Growth  
+
+- Completed **TechWorld with Nana DevOps Bootcamp** — mastering containerization, Kubernetes, GitOps, CI/CD automation, and monitoring.  
+- Actively experimenting with **Platform Engineering** concepts and **AI integrations** in DevOps workflows.  
+
+---
+
+## 📫 Connect with Me  
+
+- **Email:** [attiaaleem@gmail.com](mailto:attiaaleem@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/attia-aleem-4a0486194](https://www.linkedin.com/in/attia-aleem-4a0486194)  
+- **GitHub:** [github.com/aaleem123](https://github.com/aaleem123)  
+- **Medium:** [medium.com/@attiaaleem](https://medium.com/@attiaaleem)  
+
+---
+⭐️ *I believe in automation, reliability, and continuous improvement. Always excited to collaborate on cloud-native, DevOps, and platform engineering projects.*
+
