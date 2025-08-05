@@ -1,10 +1,11 @@
 Hi there, Attia here 👋
-- 🚀 DevOps & Cloud Engineer/ Platform Engineering Enthusiast/ AWS Specialist  
+## 🚀 DevOps & Cloud Engineer/ Platform Engineering Enthusiast/ AWS Specialist  
 
 I know you’re here to learn about my work, but first, a little about me:  
 🐱 **Animal lover** — Cats and puffins are my absolute favorites. One day, I plan to visit the puffin islands in Scotland 🐧.  
 🌿 **Nature enthusiast & proud introvert** — Yes, a bit ironic for someone in tech!  
 🧩 **Puzzle & patterns fan** — I’ve always been fascinated by intricate systems and how everything connects.  
+
 
 ## 💼 Professional Summary  
 
@@ -16,6 +17,7 @@ My focus is on **AWS** but I’m passionate about **cloud-agnostic architectures
 - **Automation & CI/CD:** Jenkins, GitHub Actions, Argo CD  
 - **Monitoring:** Prometheus, Grafana  
 - **Cloud Platforms:** AWS, GCP, DigitalOcean, Linode
+
   
 ## 🛠 Skills  
 
@@ -27,6 +29,7 @@ My focus is on **AWS** but I’m passionate about **cloud-agnostic architectures
 **Programming/Scripting:** Python, Golang  
 **Artifact Registries:** Amazon ECR, Docker Hub, Nexus Repository  
 
+
 ## 📌 Featured Projects  
 
 - **AWS 3-Tier Architecture with Terraform**  
@@ -37,6 +40,7 @@ My focus is on **AWS** but I’m passionate about **cloud-agnostic architectures
 
 - **CI/CD Pipeline Automation**  
   Built end-to-end CI/CD pipelines using Jenkins and GitHub Actions for Java, Node.js, and Python applications — containerized with Docker and deployed to Kubernetes.  
+
 
 ## 📚 Learning & Growth  
 
@@ -51,6 +55,5 @@ My focus is on **AWS** but I’m passionate about **cloud-agnostic architectures
 - **GitHub:** [github.com/aaleem123](https://github.com/aaleem123)  
 - **Medium:** [medium.com/@attiaaleem](https://medium.com/@attiaaleem)  
 
----
 ⭐️ *I believe in automation, reliability, and continuous improvement. Always excited to collaborate on cloud-native, DevOps, and platform engineering projects.*
 
